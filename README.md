@@ -33,11 +33,13 @@ Once you put cmd press enter.
 You will enter to a cmd window, in that window you need to put 
 npm install discord.js 
 # Step 7 
-Once you instaled discord.js use node . or node index.js
+Once you instaled discord.js use node deploy.js (This will register your slash commands)
+Then use node . or node index.js
 And Wuolah! You have you own bot.
 # Step 8
 Invite your bot
 <img src = https://raw.githubusercontent.com/Carpodi/Discord.JS-V13-Bot-Tutorial/main/invite.png>
+
 # Dependencies
 ![NodeJS logo](https://raw.githubusercontent.com/Carpodi/DiscordRPC/main/nodejs.png)
 [NodeJS](https://nodejs.org/en/), © OpenJS Foundation. All Rights Reserved. Portions of this site originally © Joyent.
